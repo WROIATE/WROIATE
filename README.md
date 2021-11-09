@@ -21,7 +21,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=WROIATE&theme=radical&layout=compact&hide=html,css,stylus,less,scss,makefile">
 </div>
 <p align="center">
-    I love Anime, Comic and some Games. I'm pleasure to <br>be your friend if you would like these too🥰.
+    I love Anime, Comic and some Games. I'm pleasure to <br>be your friend if you like these too🥰.
 </p>
 <div align="center">
     <img width="50%"
