@@ -9,7 +9,7 @@
     </div>
 </h2>
 <p align="center">I'm Jarao and I finished my university life in this year(2021)🎉.<br>
-    Now I'm working in a network company,to be a server programer.</p>
+    Now I'm working in a network company, to be a server programer.</p>
 <div align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WROIATE&show_icons=true&theme=radical" />
 </div>
