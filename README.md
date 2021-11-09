@@ -13,6 +13,7 @@
 <div align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WROIATE&show_icons=true&theme=radical" />
 </div>
+<br>
 <p align="center">For programing language, I like golang's simple struct and <br>high performance gpm
     (except its simple
     error🤣)</p>
@@ -20,6 +21,7 @@
     <img width="50%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=WROIATE&theme=radical&layout=compact&hide=html,css,stylus,less,scss,makefile">
 </div>
+<br>
 <p align="center">
     I love Anime, Comic and some Games. I'm pleasure to <br>be your friend if you like these too🥰.
 </p>
