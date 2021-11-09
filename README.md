@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-[![Jarao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WROIATE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### I'm Jarao!
+<img src="https://github-readme-stats.vercel.app/api?username=WROIATE&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WROIATE&theme=radical&layout=compact&hide=html,css,stylus,less,scss,makefile">
 
 
 <!--
