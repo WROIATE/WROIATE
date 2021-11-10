@@ -3,13 +3,9 @@
     <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="">
 </div>
 <h2 align="center">This is Jarao! <br>Welcome to my Github! <br><br>
-    <div align="center">
-        <a href="https://github.com/WROIATE">
-            <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="">
-        </a>
-        <a href="https://space.bilibili.com/3074931"><img
-                src="https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=pink" alt=""></a>
-    </div>
+    
+[![github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WROIATE)&nbsp;
+[![bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=pink)](https://space.bilibili.com/3074931)
 </h2>
 <p align="center">I'm Jarao and I finished my university life in this year(2021)🎉.<br>
     Now I'm working in a network company, to be a server programer.</p>
