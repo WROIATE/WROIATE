@@ -7,8 +7,7 @@
 [![github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WROIATE)&nbsp;
 [![bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=pink)](https://space.bilibili.com/3074931)
 </h2>
-<p align="center">I'm Jarao and I finished my university life in this year(2021)🎉.<br>
-    Now I'm working in a network company, to be a server programer.</p>
+<p align="center">I'm Jarao and I working for a internet enterprise, to be a server programer.</p>
 <div align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WROIATE&show_icons=true&theme=radical" />
 </div>
